@@ -1,99 +1,87 @@
 
 <div align="center">
 
-# 🌸 **Welcome to My World!** 🌸
+# 🌸 **Welcome to Alora's Digital Universe!** 🌸
 
-![Ultra Stylish](https://img.shields.io/badge/Tech%20Enthusiast-%F0%9F%9A%80-pink?style=for-the-badge)
-![Developer](https://img.shields.io/badge/Developer-%F0%9F%92%BB-pink?style=for-the-badge)
-![Mapper](https://img.shields.io/badge/Mapper-%F0%9F%8F%A1-pink?style=for-the-badge)
-![Gamer](https://img.shields.io/badge/Gamer-%F0%9F%8E%AE-pink?style=for-the-badge)
+![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-%F0%9F%92%BB-pink?style=for-the-badge)
+![Next.js & React](https://img.shields.io/badge/Next.js_%26_React-⚛️-purple?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-🎨-blue?style=for-the-badge)
+![Tech Enthusiast](https://img.shields.io/badge/Tech%20Enthusiast-🚀-brightgreen?style=for-the-badge)
+
+![Vibrant GIF](https://user-images.githubusercontent.com/106982885/196329638-4f2495cd-fd65-4ed7-bb88-9292cc704dff.gif)
 
 </div>
 
 <div align="center">
+
+## 👩‍💻 **Who Am I?**
 
 ```yaml
-💬 "Hi there, I'm Alora Mia, a 16-year-old developer & mapper on a mission to make SA:MP more immersive and tech more fun. Coding isn't just my hobby, it's my playground!"
+Alora Mia, a 16-year-old full stack dev specializing in Next.js, React, and Tailwind CSS. I create elegant, functional, and immersive digital experiences!
 ```
 
----
+> "Coding is my art, and the web is my canvas. Every line of code brings a new creation to life!"
 
-</div>
-
-<div align="center">
-
-## 🚀 **Skills, Tools, & Masteries**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CLEO](https://img.shields.io/badge/CLEO%20Mods-orange?style=for-the-badge&logo=grand-theft-auto&logoColor=white)
-
-</div>
-
-<div align="center">
-
-## 🌈 **Current Projects** 🌈
-
-| Project Name                              | Description                                                                 | Status          |
-|-------------------------------------------|-----------------------------------------------------------------------------|-----------------|
-| 🌸 **[Pastel Pink-themed Website](https://alora.is-a.dev)**  | An elegant, pastel-themed developer portfolio website with cool animations! | 🔨 In Progress |
-| 🏞 **Server Mapping for Europa Roleplay**   | Creating immersive, interactive maps to level up the SA:MP experience.      | 🏗️ Under Construction |
-| ⚙️ **SA:MP CLEO Mods**                      | Automating server menus and gameplay actions with clever CLEO scripting.    | ✅ Active |
+🖥️ **Website**: [alora.is-a.dev](https://alora.is-a.dev)  
+📂 **Profile**: [profile.alora.is-a.dev](https://profile.alora.is-a.dev)  
+💾 **Drive**: [drive.alora.is-a.dev](https://drive.alora.is-a.dev)  
+📝 **Blog**: [blog.alora.is-a.dev](https://blog.alora.is-a.dev)  
+📊 **Status**: [status.alora.is-a.dev](https://status.alora.is-a.dev)  
+⚙️ **Canary**: [alora.is-a.dev/canary](https://alora.is-a.dev/canary)
 
 ---
 
-</div>
+## ⚡ **My Developer Toolkit** ⚡
 
 <div align="center">
-
-## 🌟 **A Sneak Peek into My Playground** 🌟
-
-```yaml
-🎮 Developer & Mapper at Europa Roleplay (SA:MP)
-👩‍💻 3+ years of hands-on coding and creating tech magic
-🚀 Proficient in: C, JavaScript, HTML, CLEO Modding
-```
-
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Coding_Style-Creative_&_Efficient-blue?style=for-the-badge">
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alora-mia/alora-mia/main/assets/border.gif" width="800">
-</div>
-
-<div align="center">
-
-## 💖 **Connect with Me!**
-
-<p>
-  <a href="mailto:xaloramia@gmail.com"><img src="https://img.shields.io/badge/Email-xaloramia@gmail.com-pink?style=for-the-badge&logo=gmail"></a>
-  <a href="https://discord.com/users/7q8x"><img src="https://img.shields.io/badge/Discord-7q8x-pink?style=for-the-badge&logo=discord"></a>
-  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-Coming_Soon-pink?style=for-the-badge&logo=twitter"></a>
-</p>
 
 ---
 
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alora-mia/alora-mia/main/assets/scrolling-banner.gif" alt="scrolling-banner" width="800">
-</div>
-
 <div align="center">
 
-## ✨ **What Inspires Me** ✨
-> "Keep creating, keep coding, and never stop breaking boundaries!"
+## 🚀 **More About My Websites**
+
+| **Site**                 | **Description**                                                                   | **Link**                       |
+|--------------------------|-----------------------------------------------------------------------------------|---------------------------------|
+| **Portfolio**             | Explore my journey and projects in the tech world.                                | [profile.alora.is-a.dev](https://profile.alora.is-a.dev) |
+| **Drive**                 | My personal cloud storage with essential files & tools.                           | [drive.alora.is-a.dev](https://drive.alora.is-a.dev)   |
+| **Blog**                  | Thoughts, tips, and everything about coding and the tech ecosystem.               | [blog.alora.is-a.dev](https://blog.alora.is-a.dev)     |
+| **Status**                | Track the real-time status of my servers, apps, and tools.                        | [status.alora.is-a.dev](https://status.alora.is-a.dev)  |
+| **Canary**                | Experimental features, sneak peeks, and early-access tech goodies!                | [alora.is-a.dev/canary](https://alora.is-a.dev/canary) |
+
+</div>
+
+---
+
+<div align="center">
+
+## 💖 **Let's Connect**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Coding_Style-Creative_&_Innovative-pink?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Mindset-Eager_To_Learn-pink?style=for-the-badge">
-</p>
-
-<p>
-  Always coding, always dreaming — I'm building a world where tech meets art!
+  <a href="mailto:xaloramia@gmail.com"><img src="https://img.shields.io/badge/Email-xaloramia@gmail.com-pink?style=for-the-badge&logo=gmail"></a>
+  <a href="https://discord.com/users/7q8x"><img src="https://img.shields.io/badge/Discord-7q8x-pink?style=for-the-badge&logo=discord"></a>
 </p>
 
 ---
+
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Always_Learning_&_Building-pink?style=for-the-badge">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/106982885/196329638-4f2495cd-fd65-4ed7-bb88-9292cc704dff.gif" alt="interactive-banner" width="500">
+</div>
+
+<div align="center">
+
+> **"Turning ideas into reality, one line of code at a time."**  
+> 💖 **Always coding, always creating!**
 
 </div>
