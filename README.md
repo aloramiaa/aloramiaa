@@ -8,7 +8,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-🎨-blue?style=for-the-badge)
 ![Tech Enthusiast](https://img.shields.io/badge/Tech%20Enthusiast-🚀-brightgreen?style=for-the-badge)
 
-![Vibrant GIF](https://i.imgur.com/LECs2os.jpeg)
+![Vibrant GIF](https://i.imgur.com/wHqnNWQ.jpeg)
 
 </div>
 
