@@ -76,7 +76,7 @@ Alora Mia, a 16-year-old full stack dev specializing in Next.js, React, and Tail
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/106982885/196329638-4f2495cd-fd65-4ed7-bb88-9292cc704dff.gif" alt="interactive-banner" width="500">
+  <img src="https://i.imgur.com/MMBdGHu.jpeg" width="500">
 </div>
 
 <div align="center">
