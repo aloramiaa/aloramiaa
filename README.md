@@ -17,7 +17,7 @@
 ## 👩‍💻 **Who Am I?**
 
 ```yaml
-Alora Mia, a 16-year-old full stack dev specializing in Next.js, React, and Tailwind CSS. I create elegant, functional, and immersive digital experiences!
+Alora Mia, a  full stack dev specializing in Next.js, React, and Tailwind CSS. I create elegant, functional, and immersive digital experiences!
 ```
 
 > "Coding is my art, and the web is my canvas. Every line of code brings a new creation to life!"
